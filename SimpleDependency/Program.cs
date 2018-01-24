@@ -12,7 +12,7 @@ namespace SimpleDependency
             service.PrintMessage();
             Console.WriteLine("Press a key to continue...");
             Console.ReadKey();
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
